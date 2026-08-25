@@ -96,6 +96,6 @@ Further practice with typed objects, functions, and classes, including examples 
 
 ## Author
 
-**Prabhakar Bharti**
+**Pushp Raj Bharti**
 
 - GitHub: [@prbharti25](https://github.com/prbharti25)
